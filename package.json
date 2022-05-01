@@ -21,6 +21,7 @@
   "homepage": "https://github.com/comp426-2022-spring/e02-Xixiang-Liu#readme",
   "dependencies": {
     "create-react-app": "^5.0.1",
-    "nvm": "^0.0.4"
+    "nvm": "^0.0.4",
+    "react-scripts": "^5.0.1"
   }
 }
